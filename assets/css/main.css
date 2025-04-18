@@ -212,7 +212,7 @@ a {
 
 a:hover {
   border-bottom-color: transparent;
-  color: #4acaa8 !important;
+  color: #2964a3 !important;
 }
 
 strong,
@@ -1879,7 +1879,7 @@ header h6 + p {
 }
 
 header.major h2 {
-  color: #4acaa8;
+  color: #2964a3;
   font-size: 3.5em;
 }
 
@@ -1942,7 +1942,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-  border-color: #4acaa8;
+  border-color: #2964a3;
 }
 
 select {
@@ -2047,7 +2047,7 @@ input[type="radio"]:checked + label:before {
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-  border-color: #4acaa8;
+  border-color: #2964a3;
 }
 
 input[type="checkbox"] + label:before {
@@ -2494,7 +2494,7 @@ ul.feature-icons li:before {
 }
 
 ul.feature-icons li:before {
-  background: #4acaa8;
+  background: #2964a3;
   border-radius: 100%;
   color: #ffffff;
   display: block;
@@ -2710,7 +2710,7 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-  background-color: #4acaa8;
+  background-color: #2964a3;
   color: #ffffff !important;
 }
 
@@ -2793,7 +2793,7 @@ input[type="button"]:disabled,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #4acaa8;
+  background: #2964a3;
   color: #d2f2e9;
   height: 100%;
   overflow-y: auto;
@@ -2892,7 +2892,7 @@ input[type="button"]:disabled,
 }
 
 #header > nav ul li {
-  border-top: solid 2px #5ccfb1;
+  border-top: solid 2px #084585;
   display: block;
   padding: 0;
 }
@@ -2911,7 +2911,7 @@ input[type="button"]:disabled,
 
 #header > nav ul li a.active {
   background: #fff;
-  color: #4acaa8 !important;
+  color: #2964a3 !important;
 }
 
 #header > nav ul li:first-child {
@@ -3186,7 +3186,7 @@ input[type="button"]:disabled,
   }
 
   #titleBar .toggle:before {
-    background: #4acaa8;
+    background: #2964a3;
     color: #ffffff;
     content: "\f0c9";
     display: block;
@@ -3435,5 +3435,5 @@ input[type="button"]:disabled,
 }
 
 .three-projects {
-  color: #39c29d;
+  color: #2964a3;
 }
